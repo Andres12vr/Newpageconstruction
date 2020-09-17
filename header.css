@@ -4,3 +4,7 @@
 	background-size: cover;
 	overflow: hidden;
 }
+#map{
+	height: 300px;
+	width: 100%;
+}
