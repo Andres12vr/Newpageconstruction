@@ -1,10 +1,16 @@
 .jumbotron{
 	color: white;
-	background: #000 url("img/04.jpg");
+	background: #000 url("img/17.jpg");
 	background-size: cover;
 	overflow: hidden;
 }
 #map{
-	height: 300px;
+	height: 400px;
 	width: 100%;
+}
+#contacto{
+	background: #000 url("img/18.jpg");
+}
+#nosotros{
+	background: #000 url("img/08.jpg");
 }
